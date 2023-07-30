@@ -1,0 +1,12 @@
+C:\blozer video\BlazorVİdeo\BlazorVİdeo\Shared\bin\Debug\net6.0\BlazorVİdeo.Shared.deps.json
+C:\blozer video\BlazorVİdeo\BlazorVİdeo\Shared\bin\Debug\net6.0\BlazorVİdeo.Shared.dll
+C:\blozer video\BlazorVİdeo\BlazorVİdeo\Shared\bin\Debug\net6.0\BlazorVİdeo.Shared.pdb
+C:\blozer video\BlazorVİdeo\BlazorVİdeo\Shared\obj\Debug\net6.0\BlazorVİdeo.Shared.csproj.AssemblyReference.cache
+C:\blozer video\BlazorVİdeo\BlazorVİdeo\Shared\obj\Debug\net6.0\BlazorVİdeo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\blozer video\BlazorVİdeo\BlazorVİdeo\Shared\obj\Debug\net6.0\BlazorVİdeo.Shared.AssemblyInfoInputs.cache
+C:\blozer video\BlazorVİdeo\BlazorVİdeo\Shared\obj\Debug\net6.0\BlazorVİdeo.Shared.AssemblyInfo.cs
+C:\blozer video\BlazorVİdeo\BlazorVİdeo\Shared\obj\Debug\net6.0\BlazorVİdeo.Shared.csproj.CoreCompileInputs.cache
+C:\blozer video\BlazorVİdeo\BlazorVİdeo\Shared\obj\Debug\net6.0\BlazorVİdeo.Shared.dll
+C:\blozer video\BlazorVİdeo\BlazorVİdeo\Shared\obj\Debug\net6.0\refint\BlazorVİdeo.Shared.dll
+C:\blozer video\BlazorVİdeo\BlazorVİdeo\Shared\obj\Debug\net6.0\BlazorVİdeo.Shared.pdb
+C:\blozer video\BlazorVİdeo\BlazorVİdeo\Shared\obj\Debug\net6.0\ref\BlazorVİdeo.Shared.dll
